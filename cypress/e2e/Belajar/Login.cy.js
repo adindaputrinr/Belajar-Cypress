@@ -1,5 +1,5 @@
-// // cypress e2e/login.cy.js
-// /// <reference types="cypress" />
+// cypress/e2e/Belajar/Login.cy.js
+/// <reference types="cypress" />
 
 // describe("Login Test Suite", () => {
 //     beforeEach(() => {
