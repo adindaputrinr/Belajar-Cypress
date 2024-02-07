@@ -12,6 +12,7 @@ module.exports = defineConfig({
       config.specPattern = [
         'cypress/e2e/Belajar/Login.cy.js',
         'cypress/e2e/Belajar/Dashboard.cy.js',
+        'cypress/e2e/Belajar/Test.cy.js',
       ]
       return config
     },
